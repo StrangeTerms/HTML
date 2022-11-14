@@ -4,9 +4,9 @@
 # Элементы с неформатированным текстом
 <script>, <style>
 # Пустые элементы
-<area>, <base>, <br>, <col>, <embed>, <hr>, <img>, <input>, <link>, <menuitem>, <meta>, <param>, <source>, <track>, <wbr>
+1. <area>, <base>, <br>, <col>, <embed>, <hr>, <img>, <input>, <link>, <menuitem>, <meta>, <param>, <source>, <track>, <wbr>
 # Элементы, выводящие неформатированный текст
-<textarea>, <title>
+2. <textarea>, <title>
 # Элементы из другого пространства имён
-SVG, MathML
+3. SVG, MathML
 
